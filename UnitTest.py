@@ -1,6 +1,5 @@
 """
 Test module for RealEstateGame
-Call move_player on bankrupt player
 """
 
 import unittest
